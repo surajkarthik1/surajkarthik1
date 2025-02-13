@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there! I'm Suraj 👋
+
+
+- 🌟 I'm here to turn big data into even bigger ideas!
+- 🌱  Currently sharpening my skills in cloud architecture with Azure.
+- 📫 Reach me at: surajkarthik01@gmail.com
+
 
 <!--
 **surajkarthik1/surajkarthik1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
